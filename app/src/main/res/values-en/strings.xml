@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EasyConverter</string>
+
+
+    <!--  MainActivity-->
+    <string name="enter_amount">Enter an amount</string>
+    <string name="add_currency">Add currency</string>
+    <string name="currency_code">Currency code</string>
+    <string name="currency_rate">Currency rate</string>
+    <string name="select_currency">Select a currency</string>
+    <string name="close">close</string>
+    <string name="enter_code">Enter code</string>
+    <string name="enter_rate">Enter rate</string>
+    <string name="add">Add</string>
+
+</resources>

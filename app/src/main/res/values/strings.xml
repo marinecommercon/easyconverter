@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EasyConverter</string>
+
+
+    <!--  MainActivity-->
+    <string name="enter_amount">Entrer un montant</string>
+    <string name="add_currency">Ajouter une devise</string>
+    <string name="currency_code">Code de la devise</string>
+    <string name="currency_rate">Taux de change de la devise</string>
+    <string name="select_currency">Sélectionner une devise</string>
+    <string name="close">Fermer</string>
+    <string name="enter_code">Entrer le code</string>
+    <string name="enter_rate">Enter le taux de change</string>
+    <string name="add">Ajouter</string>
+
+</resources>
